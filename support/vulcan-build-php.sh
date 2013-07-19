@@ -45,6 +45,7 @@ echo "+ Configuring PHP..."
 --enable-pcntl \
 --enable-soap=shared \
 --enable-zip \
+--enable-intl \
 --with-bz2 \
 --with-curl \
 --with-gd \
